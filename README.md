@@ -8,6 +8,6 @@
 
 # To run the script run command:
     python file_path/UserSessions.py log_file_path/log_file.txt
-    where file_path is the python script path which is the source code
-    log_file_path is the path of the log file
+        where file_path is the python script path which is the source code
+        log_file_path is the path of the log file
 
