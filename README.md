@@ -1,6 +1,6 @@
 # fair-billing
     Code to read the log file which consist of users session start and end details with timestamp
-    The input for the log file is attached with repo sample:
+    The sample input log file is present in repo
     Sole purpose of the source code to find the unique users and count number of sessions and their time suration of the sessions
 
 # Clone the repository using the command
