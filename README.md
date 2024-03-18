@@ -36,3 +36,6 @@
         3.8 `Finally we have last condition where START doesn't have corresponding END session details, and start_time list has elements than we are calculating the session duration from the very last entry in the log file`
         3.9 We get the output after handling all the above scenarios and printing the session duration
 
+    4. Function - main()
+        This is the main function of the application
+
